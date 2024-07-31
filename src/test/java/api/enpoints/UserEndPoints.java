@@ -6,7 +6,9 @@ import static io.restassured.RestAssured.*;
 import api.payloads.User;
 import io.restassured.http.ContentType;
 
-//Created for perform Create, Read request the user API
+// This class contain implementation of request mentioned in Routes class.
+
+//Created for perform Create, Read request the user API.
 
 public class UserEndPoints {
 	

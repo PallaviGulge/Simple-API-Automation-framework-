@@ -1,7 +1,10 @@
 package api.payloads;
 
-//
+//Using Pojo Technique we can create JSON Payloads.
+
 public class User {
+	
+	//initialize  the variables and generate methods using getter and setter.
 	
 	String name;
 	String job;
